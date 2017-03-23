@@ -6,7 +6,7 @@
 Plugin Name: Instant Contact
 Plugin URI: http://faisalmughal.com
 Description: instant contact widget - supports all cf7, gravity forms, and embedments...
-Version: 1.0
+Version: 1.1
 Author: Faisal Mughal
 Author URI: http://faisalmughal.com
 License: GPLv2 or later
